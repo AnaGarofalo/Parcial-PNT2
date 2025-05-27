@@ -24,16 +24,6 @@
 <script>
 export default {
   name: "preguntas",
-  //   props: [],
-  //   data() {
-  //     return {
-  //     }
-  //   },
-  //   methods: {
-  //   },
-  //   computed: {
-
-  //   }
 };
 </script>
 
